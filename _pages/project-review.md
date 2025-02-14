@@ -10,3 +10,5 @@ description: >
 ---
 
 This is my project review. It was written on {{ page.date }} and falls under the category of: {{ page.category }}.
+
+This is a placeholder 
