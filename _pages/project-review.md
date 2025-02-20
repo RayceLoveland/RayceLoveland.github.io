@@ -2,7 +2,7 @@
 title: "Project Review"
 layout: page
 category: "Essay"
-date: 2025-02-23
+date: 2025-02-13
 permalink: /project-review/ # The URL for this page
 showcase: false # Set to false to hide from portfolio page
 description: >
