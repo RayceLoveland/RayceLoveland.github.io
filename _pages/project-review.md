@@ -9,7 +9,7 @@ description: >
   Project review for HIST 4261/5261: Working With Data
 ---
 <div align="center">
-  <p><img src="joke.jpg" style="width: 80%;" /></p>
+  <p><img src="../assets/img/joke.jpg" style="width: 80%;" /></p>
 </div>
 
 Project Review of SPLC Confederate Monuments
