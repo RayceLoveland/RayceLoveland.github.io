@@ -16,3 +16,6 @@ This is a placeholder
 This is some more placeholder text
 
 https://www.arcgis.com/apps/dashboards/78de9a42ab1b41ce9fc95742d2036952
+<div align="center">
+  <p><img src="profile.jpg" style="width: 80%;" /></p>
+</div>
